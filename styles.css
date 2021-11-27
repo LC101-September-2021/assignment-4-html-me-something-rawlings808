@@ -9,7 +9,7 @@ header {
 	padding: 1em;
 }
 
-header #mainHeading {
+#mainHeading {
     color:red;
 	text-align: center;
 }
