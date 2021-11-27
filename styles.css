@@ -9,7 +9,7 @@ header {
 	padding: 1em;
 }
 
-header h1#mainHeading {
+header #mainHeading {
     color:red;
 	text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 	margin-right: 1em;
 	font-size: 0.75em;
 }
-p#testP{
+#testP{
     color:green;
 }
 p {
