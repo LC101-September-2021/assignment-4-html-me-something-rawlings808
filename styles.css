@@ -1,1 +1,56 @@
 /* Write your CSS here! */
+
+body {	
+	max-width: 1024px;
+	margin: 8px block;
+}
+
+header {
+	padding: 1em;
+}
+
+#mainHeading {
+    color:red;
+	text-align: center;
+}
+
+main h2 {
+	margin: .75em;
+}
+
+h3 {
+    text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.75em;
+    text-decoration: none;
+}
+.funParagraph{
+    color:green;
+}
+p {
+    font-size: 20px;
+    margin: 1.8ex;
+}
+
+figure {
+	margin: 1.25em;
+}
+
+figcaption {
+	font-style: italic;
+    font-size: 80%;
+}
+
+footer {
+	text-align: center;
+    font-size: 0.5em;
+}
+
+img {
+	width: 50%;
+	max-width: 100%;
+}
